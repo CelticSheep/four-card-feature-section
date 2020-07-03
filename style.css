@@ -1,0 +1,161 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: "Poppins";
+  }
+
+.background{
+  position: relative;
+  width: 1440px;
+  height: 1080px;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+.btext1{
+  font-size: 2.1rem;
+  padding-top: 80px;
+  font-weight: 100;
+  color: #393e46;
+}
+
+.btext2{
+  position: absolute;
+  font-size: 2.3rem;
+  font-weight: 900;
+  color: #393e46;
+  top: 130px;
+  left: 500px;
+}
+
+.btext3{
+  color: #999999;
+}
+
+.boxtop{
+  position: absolute;
+  top: 350px;
+  left:525px;
+  width: 390px;
+  height: 260px;
+  background-color: #fff;
+  border-radius: 2%;
+  border-top: 5px solid #fa1616;
+  box-shadow: 1px 5px 20px #a6a6a6;
+}
+
+.boxtop h3{
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.boxtop p{
+  padding-left: 30px;
+  color: #999999;
+}
+
+.boxtop img{
+position: absolute;
+top: 170px;
+left: 290px;
+}
+
+.boxright{
+  position: absolute;
+  top: 507.5px;
+  left:970px;
+  width: 390px;
+  height: 260px;
+  background-color: #fff;
+  border-radius: 2%;
+  border-top: 5px solid #1b6ca8;
+  box-shadow: 1px 5px 20px #a6a6a6;
+}
+
+.boxright h3{
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.boxright p{
+  padding-left: 30px;
+  color: #999999;
+}
+
+.boxright img{
+position: absolute;
+top: 170px;
+left: 290px;
+}
+
+.boxbottom{
+  position: absolute;
+  top: 665px;
+  left:525px;
+  width: 390px;
+  height: 260px;
+  background-color: #fff;
+  border-radius: 2%;
+  border-top: 5px solid #ffcd3c;
+  box-shadow: 1px 5px 20px #a6a6a6;
+}
+
+.boxbottom h3{
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.boxbottom p{
+  padding-left: 30px;
+  color: #999999;
+}
+
+.boxbottom img{
+position: absolute;
+top: 170px;
+left: 290px;
+}
+
+.boxleft{
+  position: absolute;
+  top: 507.5px;
+  left: 80px;
+  width: 390px;
+  height: 260px;
+  background-color: #fff;
+  border-radius: 2%;
+  border-top: 5px solid #4cd3c2;
+  box-shadow: 1px 5px 20px #a6a6a6;
+}
+
+.boxleft h3{
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.boxleft p{
+  padding-left: 30px;
+  color: #999999;
+}
+
+.boxleft img{
+position: absolute;
+top: 170px;
+left: 290px;
+}
+
+.attribution {
+  position: absolute;
+  top: 1020px;
+  left: 544.5px;
+  color: #024249;
+  font-size: 13px;
+}
+
+.attribution a {
+  color: #ff4301;
+  text-decoration: none;
+}
